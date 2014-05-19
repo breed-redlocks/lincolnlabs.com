@@ -1,0 +1,125 @@
+.large{font-size:24px}
+.bg-white{background-color:#fff}
+.center{text-align:center}
+.padding-60{padding:60px}
+.left{float:left}
+img.left{margin-bottom:10px;margin-right:10px}
+.right{float:right}
+img.right{margin:10px 0 10px 10px}
+.ex{background:url("../img/ex.png") no-repeat;display:inline-block;height:10px;width:10px;margin-left:10px}
+*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+body{background-color:#f9f9f9;font-family:'Lato',Helvetica,sans-serif;padding-bottom:20px;padding-top:50px;-webkit-font-smoothing:antialiased}
+a{color:#5594ce}
+h1,h2,h3,h4,h5,h6{margin:0}
+.navbar{margin-bottom:0}
+.navbar-brand{padding:0}
+#logo img{height:30px;margin-top:10px}
+.nav .caret{border-bottom-color:#c9c9c9;border-top-color:#c9c9c9}
+.padd{padding-top:40px}
+.banner{background-color:#026ec8;background-position:center center;background-repeat:no-repeat;color:#fff;height:171px;overflow:hidden;}
+.banner h1{font-family:'Lato',sans-serif;font-size:44px;font-weight:300;margin:40px 0 20px}
+.banner p{font-size:24px}
+.banner .container{padding:0}
+.banner-hackathon{background-color:#2d7798;height:405px;}
+.banner-hackathon a{color:#6cb9ff}
+.banner-hackathon .gmap-btn,.banner-hackathon .signup-btn{color:#fff}
+.banner-hackathon .col-lg-6{height:405px;padding:60px;text-align:center}
+.banner-hackathon h1{color:#86deeb;font-size:30px;font-weight:500;margin-top:0;margin-bottom:4px}
+.banner-hackathon h2{color:#86deeb;font-size:28px;font-weight:300;margin-bottom:20px}
+.banner-hackathon p{font-size:18px}
+.banner-hackathon input{border:1px solid #cecece;box-sizing:border-box;color:#949494;display:inline-block;font-size:20px;font-weight:300;height:54px;margin-bottom:20px;padding:16px;vertical-align:top}
+.banner-hackathon #mc-embedded-subscribe{background-color:#fff;border-radius:26px;box-shadow:0 1px 1px rgba(0,0,0,0.5);box-sizing:border-box;color:#000;font-size:18px;font-weight:300;margin:0;padding:0 20px;width:256px}
+.banner-home{background-image:url("../img/beach.png")}
+.banner-about{background-image:url("../img/about.png")}
+.banner-miami{background:url("../img/miami.png") center center no-repeat}
+.banner-virtual{background:url("../img/virtual.png") center center no-repeat}
+.banner-chicago{background:url("../img/chicago.png") center center no-repeat}
+.banner-san-francisco{background:url("../img/san_francisco.png") top center no-repeat}
+.banner-seattle{background:url("../img/seattle.png") top center no-repeat}
+.banner-new-york{background:url("../img/new_york.jpg") center center no-repeat;height:415px;}
+.banner-new-york .col-lg-12{margin-top:40px;text-align:center}
+.banner-miami-full{background-image:url("../img/miami_full.jpg")}
+.banner-hackathon + #colors{margin-bottom:20px}
+.banner-short{height:250px}
+.gmap-btn{border:2px solid #46c4d6;border-radius:26px;box-sizing:border-box;color:#fff;display:inline-block;height:49px;margin-top:20px;padding:10px;text-align:center;width:230px;}
+.gmap-btn:hover{color:#fff;text-decoration:none;border:2px solid #fff}
+.gmap-btn span{height:22px;vertical-align:top;font-weight:bold;font-size:18px}
+.signup-btn{border:2px solid #ffc26c;border-radius:26px;box-sizing:border-box;color:#fff;display:inline-block;height:49px;margin-top:20px;padding:10px;text-align:center;width:230px;}
+.signup-btn:hover{color:#fff;text-decoration:none;border:2px solid #fff}
+.signup-btn span{height:22px;vertical-align:top;font-weight:bold;font-size:18px;margin-left:0}
+.plmk{background:url("../img/plmk.png") center center no-repeat;display:inline-block;height:22px;margin-right:10px;width:11px}
+#colors{background-image:url("../img/colors.jpg");background-repeat:repeat-x;height:6px}
+.content-box{background-color:#f0f0f0;box-sizing:border-box;color:#000;padding:60px;}
+.content-box h3{color:#949494;font-size:24px;font-weight:700;margin-bottom:30px}
+.content-box p{font-weight:300;line-height:18px;margin:0}
+.character{background-color:#fff;border-bottom:1px solid #f1f1f1;box-sizing:border-box;overflow:hidden;padding:60px 60px 100px 60px;}
+.character .left{height:146px;margin-right:53px;width:146px}
+.character .right{float:left;max-width:800px}
+.character h3{font-family:'Helvetica Neue',Helvetica,sans-serif;font-size:24px;font-weight:700;margin-bottom:34px}
+.character p{color:#595959;font-weight:300;font-size:18px;line-height:24px}
+.character p.first{font-weight:500}
+#home-email-container{background-color:#e8e8e8;text-align:center;}
+#home-email-container form{line-height:54px;margin:75px 0 63px}
+#home-email-container input{border:1px solid #cecece;box-sizing:border-box;color:#949494;display:inline-block;font-size:20px;height:54px;margin-right:19px;padding:16px;vertical-align:top}
+#home-email-container #mc-embedded-subscribe{background-color:#5798d0;border:3px solid #4189c7;border-radius:26px;box-sizing:border-box;color:#fff;line-height:48px;margin:0;padding:0 20px;}
+#home-email-container #mc-embedded-subscribe:hover{background-color:#64a6de}
+#home-email-container #mc-embedded-subscribe:active{background-color:#4e8ec4}
+#home-social,#footer-social{background-color:#fff;border-bottom:1px solid #ededed;height:96px;text-align:center;}
+#home-social .social-btn,#footer-social .social-btn{display:inline-block;height:33px;margin-right:30px;margin-top:32px;width:33px;}
+#home-social .social-btn.last,#footer-social .social-btn.last{margin-right:0}
+#footer-social{background-color:#f9f9f9;border:0}
+#home-content{padding-top:40px;}
+#home-content .row{font-size:18px;padding:20px 80px 20px 40px}
+#home-partners{background-color:#fff;text-align:center;}
+#home-partners h3{font-size:24px;font-weight:300;margin-bottom:50px;margin-top:57px;text-align:left}
+#home-partners #partners{display:inline-block;max-width:813px}
+#home-partners .partner-btn{border:1px solid #ececec;display:inline-block;height:80px;margin-bottom:34px;margin-right:34px;width:173px;}
+#home-partners .partner-btn.last{margin-right:0}
+#footer-top-border{background-image:url("../img/footer_border_top.jpg");background-position:center center;background-repeat:no-repeat;height:120px;margin-top:20px;margin-bottom:20px}
+footer h6{color:#1db6c5;font-size:13px;font-weight:700;margin-bottom:38px;text-transform:uppercase}
+footer a{color:#595959;display:block;font-weight:300;margin-bottom:4px}
+.api-partner{padding:60px 0;}
+.api-partner .img{background-color:#fff;border:1px solid #ececec;height:178px;margin-right:80px;width:367px}
+.api-partner h3{color:#000;font-size:26px;font-weight:600;margin-bottom:20px}
+.api-partner p{font-size:18px;line-height:24px;max-width:500px;font-weight:300;color:#3d3d3d}
+.api-partner a{font-size:18px}
+#contact-box{padding:60px;text-align:center;}
+#contact-box img{margin-bottom:40px;margin-top:40px}
+#contact-box p{font-size:24px;font-weight:300;line-height:30px}
+.hackathon-winners .col-lg-6.text{height:340px;margin-bottom:40px}
+.hackathon-winners img{position:absolute;right:-45px;top:-40px}
+.banner-miami .col-lg-12,.banner-virtual .col-lg-12,.banner-seattle .col-lg-12,.banner-chicago .col-lg-12,.banner-san-francisco .col-lg-12{height:406px;padding:42px 60px 60px 60px;text-align:center}
+#judges{margin-bottom:40px;margin-top:40px;text-align:center;}
+#judges p{margin-top:10px;margin-bottom:10px;font-weight:bold;color:#333;font-size:17px}
+#judges span{color:#949494;font-size:12px}
+#judges img{border-radius:63px;}
+#judges img.last{margin-right:0}
+#judges .col-lg-2{float:none;display:inline-block;vertical-align:top}
+#official-rules{padding-top:40px;}
+#official-rules h1{margin-bottom:20px}
+.sponsor-header{margin-top:40px}
+.sponsor-desc{font-size:14px}
+.sponsor{max-width:240px}
+.photo-collection{margin-top:40px;}
+.photo-collection h1{margin:0 0 20px 14px}
+.photo-collection img{margin-bottom:20px;max-width:100%}
+.photo-collection.photo-collection-main img{margin-bottom:10px}
+.photo-collection.photo-collection-main p{margin:0 0 20px}
+@media (max-width: 568px){.banner{padding-left:10px}
+.banner-hackathon{background-position:top center;height:730px;}
+.banner-hackathon h1{margin-top:0}
+.banner-hackathon .col-lg-6{padding:30px 6px}
+.banner-miami{background:none}
+#home-email-container form input{display:block;margin:0 auto 10px}
+#home-partners .partner-btn{margin-right:0}
+footer h6{margin:20px 0 10px}
+.character .left{margin:0 0 20px 20px}
+.character h3{margin-bottom:12px}
+#contact-box a,#contact-box p{font-size:20px}
+#judges img{display:block;margin:0 auto 0;}
+#judges img.last{margin:0 auto 0}
+#judges .judge-name{font-weight:bold;color:#00f}
+#judges .judge-desc{color:#f00}
+.hackathon-winners .col-lg-6.text.team2{height:470px}
+.hackathon-winners .col-lg-6.img{display:none}
+}
